@@ -1,0 +1,27 @@
+{
+  "name": "resetthetable_redditbot",
+  "version": "1.0.0",
+  "description": "A wee lil' bot to put back the table",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dark-Times/ResetTheTable_RedditBot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "DarkTimes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dark-Times/ResetTheTable_RedditBot/issues"
+  },
+  "homepage": "https://github.com/Dark-Times/ResetTheTable_RedditBot#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
